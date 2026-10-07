@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://mikakoivisto.fi"><img alt="Website" src="https://img.shields.io/badge/mikakoivisto.fi-24292f?style=for-the-badge&logo=safari&logoColor=white"></a>
   <a href="https://vertique.dev"><img alt="Vertique" src="https://img.shields.io/badge/vertique.dev-0b6e4f?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/mikakoivisto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/mikakoivisto"><img alt="X" src="https://img.shields.io/badge/@mikakoivisto-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
@@ -27,10 +27,6 @@ APIs, durable workflows, and background jobs.
 | 📐 **Typed service contracts** | Call plain Java interfaces. Vertique handles event-bus dispatch and context propagation. |
 | 🛡️ **Durable by design** | PostgreSQL-backed workflows, jobs, and transactional inbox/outbox. |
 | 🔌 **Batteries around the core** | REST (JAX-RS + OpenAPI), security, config, observability, Kafka. |
-
-```java
-// Plain Java interfaces in. Event-bus dispatch, context propagation, and durability handled for you.
-```
 
 **Start here**
 
