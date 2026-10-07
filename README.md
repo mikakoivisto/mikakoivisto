@@ -31,6 +31,6 @@ Before Vertique, I co-created a shared Vert.x toolkit (JAX-RS, OpenAPI router, r
 
 Nine years consulting for a large Nordic financial group as lead developer and hands-on architect, designing regulated payment and API systems that process millions of payments a month, and operating them in production with continuous delivery.
 
-Before that, 2009 to 2016 on Liferay's platform team, where I designed and built the SAML 2.0 identity and service provider that still ships in the product, and consulted for Bosch, Vodafone, Barclays, and IBM. Earlier, lead architect and pre-sales at Logica (now CGI), after starting out as a developer in 1997.
+Before that, 2009 to 2016 on Liferay's platform team, where I designed and built the SAML 2.0 identity and service provider that still ships in the product, and consulted for Bosch, Vodafone, Barclays, and IBM. Earlier, lead architect and pre-sales at Logica (now CGI).
 
 These days I work AI-native: agents write a lot of the code, and I own the specs, the architecture, and the review.
