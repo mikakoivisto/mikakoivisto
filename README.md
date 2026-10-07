@@ -17,9 +17,3 @@ Vertique is a Java 21+ framework on Vert.x for APIs, durable workflows, and back
 - Consolidated three Strong Customer Authentication solutions into one, and co-authored the bank's first JWT-based internal security token.
 - Built the SAML 2.0 identity and service provider in Liferay, which is still in the product.
 - Work mostly with Java, Vert.x, PostgreSQL, Kafka, OAuth 2.0, FAPI, and mTLS. Lately I use Claude Code and Codex with specs and review gates around them.
-
-## Elsewhere on GitHub
-
-- [psd2-tpp-demo-app](https://github.com/mikakoivisto/psd2-tpp-demo-app) and [psd2-registration-example](https://github.com/mikakoivisto/psd2-registration-example): a TPP demo and mTLS/JWT registration examples for OP's PSD2 sandbox
-- [reminders-mcp](https://github.com/mikakoivisto/reminders-mcp): Apple Reminders MCP wrapper for Claude
-- Home automation bridges: [controlmyspa-ha-mqtt](https://github.com/mikakoivisto/controlmyspa-ha-mqtt), [ruuvibridge-ha-mqtt](https://github.com/mikakoivisto/ruuvibridge-ha-mqtt), [volvooncall-mqtt](https://github.com/mikakoivisto/volvooncall-mqtt)
